@@ -5,6 +5,9 @@
 * Default table
 * react-super-responsive-table
 
+## Demo
+[here](https://alexbelloni.github.io/react-responsive-tables/build/)
+
 ## Setup
 
 1. `npm install` – install dependencies
